@@ -18,37 +18,37 @@
 ### url:"localhost:3000/members"
 
 ### success
-<img src="https://imgur.com/R37W7ZC">
+<img src="https://imgur.com/R37W7ZC.png">
 
 ### failed by missing phone 
-<img src="https://imgur.com/Rn81AeD">
+<img src="https://imgur.com/Rn81AeD.png">
 
 ## **Create project (name)**
 
 ### url:"localhost:3000/projects"
 
 ### success
-<img src="https://imgur.com/JeGQhLS">
+<img src="https://imgur.com/JeGQhLS.png">
 
 ### failed by missing name 
-<img src="https://imgur.com/Q78PkSA">
+<img src="https://imgur.com/Q78PkSA.png">
 
 ## **Assign member to project**
 
 ### url:"localhost:3000/projects/{project_id}/members"
 
 ### success
-<img src="https://imgur.com/dagmonI">
+<img src="https://imgur.com/dagmonI.png">
 
 ### failed by userID invalid
-<img src="https://imgur.com/fw1UoX9">
+<img src="https://imgur.com/fw1UoX9.png">
 
 ## **Show project detail (name, list member)**
 
 ### url:"localhost:3000/projects/{project_id}"
 
 ### success
-<img src="https://imgur.com/fH4z7qr">
+<img src="https://imgur.com/fH4z7qr.png">
 
 
 
